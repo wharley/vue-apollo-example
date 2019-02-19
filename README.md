@@ -1,4 +1,5 @@
 # vue-apollo-example
+An example from vuejs using vue-apollo.
 
 ## Project setup
 ```
